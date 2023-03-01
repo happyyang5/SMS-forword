@@ -1,5 +1,5 @@
 # 免责声明
-
+https://github.com/ChinaTelecomOperators/SMSForward/blob/main/DOC.md
 [文档](https://github.com/ChinaTelecomOperators/SMSForward/blob/main/DOC.md)
 
 本仓库或本仓库相关的仓库, 以下简称为本仓库.
