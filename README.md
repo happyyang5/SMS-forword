@@ -1,5 +1,5 @@
 # 免责声明
-https://github.com/ChinaTelecomOperators/SMSForward/blob/main/DOC.md
+
 [文档](https://github.com/ChinaTelecomOperators/SMSForward/blob/main/DOC.md)
 
 本仓库或本仓库相关的仓库, 以下简称为本仓库.
@@ -8,6 +8,8 @@ https://github.com/ChinaTelecomOperators/SMSForward/blob/main/DOC.md
 本仓库或本仓库相关的仓库内分享的任何内容, 以下简称为本仓库内容.
 
 本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家/地区/组织等的法律法规或相关规定的其他用途. 本仓库人员均不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断. 禁止任何公众号、自媒体进行任何形式的转载、发布.
+
+转载自网上大神地址：https://github.com/ChinaTelecomOperators/SMSForward/blob/main/DOC.md
 
 本仓库内容的域名地址信息可以被任何人通过开发人员工具获取，没有经过逆向工程或网络攻击，不构成入侵计算机系统
 
